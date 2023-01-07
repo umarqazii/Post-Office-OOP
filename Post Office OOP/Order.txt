@@ -1,0 +1,20 @@
+Customer Info:
+Name: Umar
+ID: 1236
+Contact No: 03060253822
+
+Sender Address: 
+House no:983, Street no: 108, Sector: G-9/4
+City: Islamabad
+
+Receiver Address: 
+House no:432, Street no: 10, Sector: G-11/1
+City: Karachi, Pakistan
+
+Package Info
+Order ID: 1267
+Weight: 5
+Dimension: 2x6x4
+Shipment Time: 23:00
+
+Payable amount is: Rs.375/-
